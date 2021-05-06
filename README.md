@@ -3,8 +3,6 @@ Multi-class sentiment analysis problem to classify texts into five emotion categ
 
 ![](images/emotions.png)
 
- 
-
 ## Dataset
 (https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp)
 
@@ -32,6 +30,6 @@ The sentiment labels are:
 
 
 ## How to Run The Code
-All the code and comments are listed the jupyter notbook (Sentiment Analysis of Movies Reviews.ipynb)
+All the code and comments are listed the jupyter notbook (Classify_emotions_in_text.ipynb)
 
 
